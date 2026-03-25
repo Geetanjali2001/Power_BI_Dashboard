@@ -59,7 +59,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * 🎚️ Optimized Slicers & Advanced Cross-Filtering
 
 
-[ *View Full Project 2 Details (README)*](/Data%20Jobs%20V2/README.md)
+[**View Full Project 2 Details (README)**](/Data%20Jobs%20V2/README.md)
 
 ## About This Portfolio
 
